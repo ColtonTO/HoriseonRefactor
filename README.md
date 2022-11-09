@@ -1,6 +1,6 @@
-#HoriseonRefactor
+# HoriseonRefactor
 
-##Hello, thanks for checking out the README! below you will find details of this project.
+## Hello, thanks for checking out this repository! Below you will find details of this project.
 
 -My motivation for this project was simply to refactor the website from Horiseon Social Solution Services, Inc.
 
@@ -13,18 +13,16 @@
 
 -What makes this project standout is how organized it is. Through the use of semantic elements in HTML, it is super easy to debug and pull apart the code! Super organized!
 
-##Installation
+## Installation
 -N/A
 
-##Usage 
+## Usage 
+-N/A
+## Below is a picture of the newly organized HTML.
+![ScreenshotHF](https://user-images.githubusercontent.com/116236745/200740055-709cfe00-11dd-4f47-b053-6e2b8ec75c60.png)
+
+## Credits
 -N/A
 
-```md
-![picture of refactored code](assets/images/ScreenshotHF.png)
-```
-
-##Credits
--N/A
-
-##License
+## License
 -N/A
