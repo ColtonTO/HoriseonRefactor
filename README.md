@@ -1,6 +1,6 @@
 # HoriseonRefactor
 
-## Hello, thanks for checking out this repository! Below you will find details of this project.
+## Hello there, thanks for checking out this repository! Below you will find details of this project.
 
 -My motivation for this project was simply to refactor the website from Horiseon Social Solution Services, Inc.
 
@@ -26,3 +26,5 @@
 
 ## License
 -N/A
+
+
