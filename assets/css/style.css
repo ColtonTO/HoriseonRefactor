@@ -7,7 +7,7 @@
 *{
     font-family:'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
 }
-/* Universal Elements determine font, padding and margin, and give a border to the page so it fits nicely. */
+/* Universal Elements determine font, padding and margin, and gives a border to the page so it fits nicely. */
 body {
     background-color: #d9dcd6;
 }
